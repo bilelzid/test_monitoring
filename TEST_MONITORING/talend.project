@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_msq2ofqrEeuYkZX6zB9FUg" label="test_monitoring" description="Projet test sur le serveur de dev tst01" language="java" technicalLabel="TEST_MONITORING" author="_msq2ovqrEeuYkZX6zB9FUg" productVersion="Talend Cloud API Services Platform-7.3.1.20210623_0656-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/bilelzid/test_monitoring.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+  <TalendProperties:Project xmi:id="_msq2ofqrEeuYkZX6zB9FUg" label="test_monitoring" description="Projet test sur le serveur de dev tst01" language="java" technicalLabel="TEST_MONITORING" author="_msq2ovqrEeuYkZX6zB9FUg" productVersion="Talend Cloud API Services Platform-7.3.1.20210623_0656-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/bilelzid/test_monitoring.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_mvoEAPqrEeuYkZX6zB9FUg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_msq2ovqrEeuYkZX6zB9FUg" login="zid.bilel@fraikin.com" firstName="Bilel" lastName="ZId" type="DQ"/>
