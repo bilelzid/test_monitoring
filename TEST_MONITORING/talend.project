@@ -4,4 +4,7 @@
     <migrationTask xmi:id="_mvoEAPqrEeuYkZX6zB9FUg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_msq2ovqrEeuYkZX6zB9FUg" login="zid.bilel@fraikin.com" firstName="Bilel" lastName="ZId" type="DQ"/>
+  <TalendProperties:User xmi:id="_u0cEMPtJEeuczqGcKHJiwA" login="giovannitommasi@fraikin.com" firstName="Giovanni" lastName="Tommasi" type="DQ"/>
+  <TalendProperties:User xmi:id="_u0cEMftJEeuczqGcKHJiwA" login="trinh.nguyen@fraikin.com" firstName="Trinh" lastName="NGUYEN" type="DQ"/>
+  <TalendProperties:User xmi:id="_u0cEMvtJEeuczqGcKHJiwA" login="ayman.rezouk.ext@fraikin.com" firstName="Ayman" lastName="Rezouk" type="DQ"/>
 </xmi:XMI>
